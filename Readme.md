@@ -1,4 +1,4 @@
-Description
+## Description
 a webpage that hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
 
 Installation N/A
@@ -26,7 +26,8 @@ The completed application should meet the following criteria:
 
 * Each CSS snippet should have a card-like layout with the CSS syntax wrapped
 
-Credits
+## Credits
   in-class solution
 
-License MIT license
+## License 
+MIT license
