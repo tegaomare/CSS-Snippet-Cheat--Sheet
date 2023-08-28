@@ -1,33 +1,31 @@
+## CSS-Snippet-Cheat
+
+<img src="./assets/webpage.png" href="webpage image">
+
 ## Description
 a webpage that hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
 
-Installation N/A
 
-Usage 
-## Instructions
+## Installation
 
-The completed application should meet the following criteria:
+1. Clone this repository to your local machine using:
+   ```bash
+   git clone  git@github.com:tegaomare/CSS-Snippet-Cheat--Sheet.git
+Navigate to the project directory:
 
-* As a user, I can view a collection of labeled CSS snippets in a responsive grid.
+bash
 
-* As a user, I can easily identify these CSS snippets by their headings.
+Copy code
 
-* As a user, I can highlight a code snippet by clicking on it.
+cd horiseon-social-services
 
-* As a user, I can view my application on a mobile device as well as a desktop.
-
-### Specifications
-
-* Must use semantic HTML elements and proper indentation.
-
-* Use CSS variables to maintain clean and reusable values for a color scheme.
-
-* Use flexbox and media queries to create a responsive grid layout.
-
-* Each CSS snippet should have a card-like layout with the CSS syntax wrapped
+Open the index.html file in your preferred web browser.
 
 ## Credits
-  in-class solution
+Columbia University Coding Bootcamp
 
 ## License 
 MIT license
+
+## Page link
+https://tegaomare.github.io/CSS-Snippet-Cheat--Sheet/
